@@ -1,0 +1,56 @@
+
+html {
+  height: 100%;
+  width: 100%;
+}
+body {  
+  background-image: url("img/sdb_page-0001.png");
+  background-size: cover;
+}
+.teeth{
+  position: absolute;
+  top: 250px;
+  left: 1600px;
+}
+.rideau{ 
+  position: absolute;
+  top: 40px;
+  left: 150px;
+}
+.eye {
+  position: absolute;
+  top: 10px;
+  left: 1800px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
